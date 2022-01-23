@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="25" height="25" tilewidth="32" tileheight="32" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" source="[A]Dirt1_pipo.tsx"/>
+ <tileset firstgid="6" source="[A]Wall-Up1_pipo.tsx"/>
+ <layer id="1" name="Слой тайлов 1" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJxjZWBgYB3Fo3gUk4TZRu0YtWPUDrx24MO0tn8Uj+KRggEE3AxG
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="40" height="40" tilewidth="32" tileheight="32" infinite="0" nextlayerid="3" nextobjectid="1">
+ <tileset firstgid="1" name="[A]Dirt_pipo" tilewidth="32" tileheight="32" tilecount="336" columns="8">
+  <image source="Pipoya RPG Tileset 32x32/SampleMap/[A]Dirt_pipo.png" width="256" height="1344"/>
+ </tileset>
+ <tileset firstgid="337" name="[A]Flower_pipo" tilewidth="32" tileheight="32" tilecount="96" columns="8">
+  <image source="Pipoya RPG Tileset 32x32/SampleMap/[A]Flower_pipo.png" width="256" height="384"/>
+ </tileset>
+ <tileset firstgid="433" name="[A]Grass_pipo" tilewidth="32" tileheight="32" tilecount="528" columns="8">
+  <image source="Pipoya RPG Tileset 32x32/SampleMap/[A]Grass_pipo.png" width="256" height="2112"/>
+ </tileset>
+ <tileset firstgid="961" name="[A]Wall-Up_pipo" tilewidth="32" tileheight="32" tilecount="96" columns="8">
+  <image source="Pipoya RPG Tileset 32x32/SampleMap/[A]Wall-Up_pipo.png" width="256" height="384"/>
+ </tileset>
+ <tileset firstgid="1057" name="[A]Wall-Up_pipo" tilewidth="32" tileheight="32" tilecount="96" columns="8">
+  <image source="Pipoya RPG Tileset 32x32/SampleMap/[A]Wall-Up_pipo.png" width="256" height="384"/>
+ </tileset>
+ <tileset firstgid="1153" name="[A]Water_pipo" tilewidth="32" tileheight="32" tilecount="3072" columns="64">
+  <image source="Pipoya RPG Tileset 32x32/SampleMap/[A]Water_pipo.png" width="2048" height="1536"/>
+ </tileset>
+ <tileset firstgid="4225" name="[A]WaterFall_pipo" tilewidth="32" tileheight="32" tilecount="576" columns="32">
+  <image source="Pipoya RPG Tileset 32x32/SampleMap/[A]WaterFall_pipo.png" width="1024" height="576"/>
+ </tileset>
+ <tileset firstgid="4801" name="[Base]BaseChip_pipo" tilewidth="32" tileheight="32" tilecount="1064" columns="8">
+  <image source="Pipoya RPG Tileset 32x32/SampleMap/[Base]BaseChip_pipo.png" width="256" height="4256"/>
+ </tileset>
+ <tileset firstgid="5865" name="LightShadow_pipo" tilewidth="32" tileheight="32" tilecount="48" columns="8">
+  <image source="Pipoya RPG Tileset 32x32/SampleMap/LightShadow_pipo.png" width="256" height="192"/>
+ </tileset>
+ <tileset firstgid="5913" name="samplemap" tilewidth="32" tileheight="32" tilecount="3600" columns="60">
+  <image source="Pipoya RPG Tileset 32x32/SampleMap/samplemap.png" width="1920" height="1920"/>
+ </tileset>
+ <layer id="1" name="logic" width="40" height="40">
+  <data encoding="base64" compression="zlib">
+   eJy1mFGOwkAMQzkDexXu/1dxrVUlqq1Gif2cYT8ioJ1JPI4dCsfz8Tg+8b7FIeLdrF2vdWtcPpKny6Vyq/sO3/n6+vkLx9N1/1xLzpvwXfGi+CNnnkbKfbWfcqR08A28a78dfy73hMs7F6TPzpNrv3e462qS2ZDUomf/jx5UONYzV5zuaM7VTvJ3vZ5wp2bijnamWkzmp+LQ5bg8WOGjPaz2qPe0J9f3D+VBYZ9qm+R1NSmXVNvrd0iiDedPiq+a3WmODhdd162faDnREvGB6z3xNMlJz0Y9180OxUtXR+FzNcg+ohc3bzoMiuPqGY7qnfQy4Y5q0/GQemLiGaVnFeusIbyStUSHrm6lRTUTFD+KK7e+q029S/xI/ZFqMd3T8U500N2juK64/y6enq3Ck/hjB1+HRz0P0lDnIjmp71LtVJwQbMoTRPcUI/2/JemPw+OuEX0qfIlmO04J9ynOFBfRI9EGvZ7OkUSXhG+6j/qI4E5qEp4mdcm56EzqPq/+Un2vcnRr6ew4nvoZVs3JXa8o3uisvf83TWZ6x2kS7nzUM8nMpLqj8QtuYDcs
+  </data>
+ </layer>
+ <layer id="2" name="roof_deco2" width="40" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzNmb1Ow0AMxwMFypxIeStGRkY22OAFCguFpYIFlddBYoMNHoKvR+CixKplbJ99cdX+JKslTe7+8dm+D+6bqnrcUntItkg2SQactP3nPrpm4bWuqrdkV+m5G8aumT469kg/0+HvyaBtQX4/bfn7MZ/1/2vv6dpHslmz6hN/zlE7tA8Jqo++C+Dx5Uy4d25sA/cF+jgfYXad+nL+AyAmJLjxBb6U5zRuhfi7G/rBvoCYoED8UH1cXJVw4MwtCc1/EjvC/dL13BhqaPrM7WbeTxpDC5o+a7uHBWNJ8+0n9fPL9IX1RcUe8B3QXkn8RZLzCadPinNMrl5GEeE/PJeepe/nLf8bxVJfsb5Sn8Bc2j1/kb5ftqu2rPMsQDV46guOd0sMRBBRXzAvdW8U7/tI89tYJH0a2jyw6frSoY0T1ofndE+t1nIU/1aSf17/cWOh5ag3fyne9YE1ZyLyeyrsP7xarOCYscbPNuRHh7SW2BZ9EiX68NiUrI2f6940oJZQfbQG5OK8NEZhfZrTGTW+61pvrTv+StbkeMy8+1/PPt2K5vuN5K+jP48+a64eZeY0z34P9OE4kfZ61lw9HjnnYi1R48vF5br2l9H74DF4/Retfcz5Wo4IrTSmca3p2tf04bNUbY1Mkc7WPG0AoA+fj3P1slsHj/UXXktztZ+eIcP5+LLZ/P8RJHtK9geR080I
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="40" height="40" tilewidth="32" tileheight="32" infinite="0" nextlayerid="3" nextobjectid="1">
+ <tileset firstgid="1" source="MegaPixelArt32x32pxIcons_SpriteSheet.tsx"/>
+ <tileset firstgid="505" name="[Base]BaseChip_pipo" tilewidth="32" tileheight="32" tilecount="1064" columns="8">
+  <image source="Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo.png" width="256" height="4256"/>
+ </tileset>
+ <tileset firstgid="1569" name="LightShadow_pipo" tilewidth="32" tileheight="32" tilecount="48" columns="8">
+  <image source="Pipoya RPG Tileset 32x32/LightShadow_pipo.png" width="256" height="192"/>
+ </tileset>
+ <tileset firstgid="1617" name="[A]Dirt_pipo" tilewidth="32" tileheight="32" tilecount="336" columns="8">
+  <image source="Pipoya RPG Tileset 32x32/SampleMap/[A]Dirt_pipo.png" width="256" height="1344"/>
+ </tileset>
+ <tileset firstgid="1953" name="[A]Flower_pipo" tilewidth="32" tileheight="32" tilecount="96" columns="8">
+  <image source="Pipoya RPG Tileset 32x32/SampleMap/[A]Flower_pipo.png" width="256" height="384"/>
+ </tileset>
+ <tileset firstgid="2049" name="[A]Water_pipo" tilewidth="32" tileheight="32" tilecount="3072" columns="64">
+  <image source="Pipoya RPG Tileset 32x32/SampleMap/[A]Water_pipo.png" width="2048" height="1536"/>
+ </tileset>
+ <layer id="1" name="logic" width="40" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt1TEOgCAMhWHcHIyJp+JoHs0zsTm5VBAK9FFih3/2s001LM4Fy0p0beVpts3gQxrpc889HdrHsVEfwqjdR41cH3KGOduIGXJmN9JXakPtmHsXSF+LTXK/sffm2v7qS/1DtfpqXOZ7+7z5oPuV+jbP5PNrP1tPnz/qfZI26tM2u1aftE3C19PWcr/Srpit1IiwffmeW47dM2KnHGcuaVuLE2mzLEtnN4pNdc8=
+  </data>
+ </layer>
+ <layer id="2" name="roof_deco2" width="40" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzNmM1OwzAMx7sMtg4mwbV3xMcJrmg9I54MuA5u3BC8CiAEO7DxMtyIaa1ZVpw4STvtL1ndR9L8ajtOmtoU//odFEVtmuu2adZySWzHxt//gv1/GWgvqSb9ZuwenK9OHKMLDezYRhg/5KuQhrb/juIeJ7bNKWlH/TGxn/fM+vcucg5jum+vU+UzngfaUeac2I7Kohh7rCzj7pcbQ842mvjbXEfycfFc8Inn7pVibOTj8/pIGDMmfmPbthRyN5avC/FadmC/HwrPo4ktaHfS5KB2bnclje9Q4MPQ3E6p61Kt1PqO8vUhnm+oGN+BcvlifBvrO5CGz7euaZXCBtLwSbHSCnwcG1dUX/nHlcOXuu/SCNfYlNiC0H+uGoh7O7oH4GtLKDdT/cb5XDWQr1Eu+XIzJ+8o3/vU/Z9vjdKqKz6JMVddxXcb+V5t37se60tqTUbF1D5pz+97F8j1Xd/7qlQ+jKv2nSl1/d3UmuaqcdI7AH2WFL6+5wR9lhS+Te0HQDd2rLeI8dB3fe4HuLSMrrh+Ws5va4vWvlrurvlDjJwNahaw/bQc1bCxjwQu7RkMMN4K5vIbsAHTmbWlaa6r1o8uxZwVuPQS0XfZtgUmetUKzxFyz/qAeW7tntiDaeJYDdeswLcwafGNFdTNJ2uPxCgbiHOg/1x8ko/479o1BtmeTXMmMhf40G8VibHkPzq2xMvXmJzYr9q6wg3mjGtPL+3h+Vm0T9L8ipk3oNCeXmLa9Ll4aLw/C6Bhfw==
+  </data>
+ </layer>
+</map>
